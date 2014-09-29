@@ -1,8 +1,8 @@
 <h1>Bugle</h1>
 =====
 <h2>In brief</h2>
-Bugle is an android app which is a social alarm clock.
-You'll be able to custom alarm ringtones for others and they'll not know it until it rings.
+<p>Bugle is an android app which is a social alarm clock.
+You'll be able to custom alarm ringtones for others and they'll not know it until it rings.</p>
 =====
 <h2>Core members</h2>
 <ul>
